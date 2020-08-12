@@ -1,8 +1,13 @@
 <div align = "center">
 <img 		src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" height="200"/>
 <br>
-<h2>Hi, i'm Romário Laltany </h2>
+<h2>Hello world, i'm Romário Laltany </h2>
 </div>
+
+I'm computer scientist and I started my programming journey at age 14, using the Ruby language. Passionate about Python and Data Science, i'm always looking for new challenges and open to new experiences and knowledge.
+
+📍 From Florianópolis, SC, Brazil
+💻 Languages: Python, Java, GO and C
 
 <!--
 **Laltany/Laltany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
