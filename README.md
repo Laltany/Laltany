@@ -1,6 +1,8 @@
-### Hi there 👋
-
-![](perfil1.gif)
+<div align = "center">
+<img 		src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" height="200"/>
+<br>
+<h2>Hi, i'm Romário Laltany </h2>
+</div>
 
 <!--
 **Laltany/Laltany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
