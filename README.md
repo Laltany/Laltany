@@ -4,7 +4,7 @@
 <h2>Hello world, i'm Romário Laltany </h2>
 </div>
 
-I'm computer scientist and I started my programming journey at age 14, using the Ruby language. Passionate about Python and Data Science, i'm always looking for new challenges and open to new experiences and knowledge.
+I'm computer scientist and I started my programming journey at age 14, using the Ruby language. Passionate about Python and Data Science, I'm always looking for new challenges and open to new experiences and knowledge.
 
 📍 From Florianópolis, SC, Brazil <br>
 💻 Languages: Python, Java, GO and C
